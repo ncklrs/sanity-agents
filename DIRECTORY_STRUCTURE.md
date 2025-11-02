@@ -151,10 +151,15 @@ Skills automatically activate when reading:
 ## Installation Path
 
 ```
-1. /plugin marketplace add /path/to/sanity-agent
+1. /plugin marketplace add git@github.com:ncklrs/sanity-agents.git
 2. /plugin install [plugin-name]@sanity-marketplace
 3. Restart Claude Code
 4. Use commands or let skills auto-activate
+```
+
+**Alternative (HTTPS)**:
+```
+1. /plugin marketplace add https://github.com/ncklrs/sanity-agents.git
 ```
 
 ---

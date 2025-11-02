@@ -7,7 +7,10 @@ Get up and running with Sanity-focused Claude Code plugins in 5 minutes.
 ### Step 1: Add Marketplace
 ```bash
 claude
-/plugin marketplace add /Users/nickjensen/Dev/sanity-agent
+/plugin marketplace add git@github.com:ncklrs/sanity-agents.git
+
+# Or using HTTPS:
+# /plugin marketplace add https://github.com/ncklrs/sanity-agents.git
 ```
 
 ### Step 2: Install Plugins

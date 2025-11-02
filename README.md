@@ -2,7 +2,13 @@
 
 > Complete Sanity development toolkit - schemas, queries, migrations, plugins, structure, widgets, and AI-powered actions.
 
+[![Install](https://img.shields.io/badge/Install-Claude_Code-blue)](git@github.com:ncklrs/sanity-agents.git)
+[![Plugins](https://img.shields.io/badge/Plugins-7-green)]()
+[![License](https://img.shields.io/badge/License-MIT-yellow)]()
+
 A comprehensive marketplace of 7 specialized plugins for Sanity CMS developers using Claude Code. From schema design to AI-powered content transformations, these plugins cover every aspect of Sanity development.
+
+**Quick Install**: `/plugin marketplace add git@github.com:ncklrs/sanity-agents.git`
 
 ## 🚀 Quick Start
 
@@ -12,8 +18,8 @@ A comprehensive marketplace of 7 specialized plugins for Sanity CMS developers u
 # Start Claude Code
 claude
 
-# Add this marketplace
-/plugin marketplace add /Users/nickjensen/Dev/sanity-agent
+# Add this marketplace from GitHub
+/plugin marketplace add git@github.com:ncklrs/sanity-agents.git
 
 # Browse available plugins
 /plugin
@@ -477,7 +483,7 @@ Add to your repository's `.claude/settings.json` for automatic team installation
   "marketplaces": [
     {
       "name": "sanity-marketplace",
-      "source": "/Users/nickjensen/Dev/sanity-agent"
+      "source": "git@github.com:ncklrs/sanity-agents.git"
     }
   ],
   "plugins": [
@@ -493,6 +499,18 @@ Add to your repository's `.claude/settings.json` for automatic team installation
 ```
 
 When team members trust the repository, all plugins install automatically.
+
+**Alternative**: You can also use HTTPS:
+```json
+{
+  "marketplaces": [
+    {
+      "name": "sanity-marketplace",
+      "source": "https://github.com/ncklrs/sanity-agents.git"
+    }
+  ]
+}
+```
 
 ---
 
