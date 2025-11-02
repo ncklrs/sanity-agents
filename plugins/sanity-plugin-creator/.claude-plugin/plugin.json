@@ -4,14 +4,5 @@
   "version": "1.0.0",
   "author": {
     "name": "Nick Jensen"
-  },
-  "tags": ["sanity", "plugins", "studio", "custom-tools", "extensions"],
-  "capabilities": [
-    "Create custom Sanity plugins from scratch",
-    "Build custom input components and fields",
-    "Generate plugin configuration and setup",
-    "Create reusable tools and utilities",
-    "Package plugins for npm distribution",
-    "Integrate third-party services via plugins"
-  ]
+  }
 }

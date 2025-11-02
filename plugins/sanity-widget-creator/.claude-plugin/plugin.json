@@ -4,14 +4,5 @@
   "version": "1.0.0",
   "author": {
     "name": "Nick Jensen"
-  },
-  "tags": ["sanity", "widgets", "dashboard", "studio-ui", "components"],
-  "capabilities": [
-    "Create custom Studio dashboard widgets",
-    "Build analytics and reporting widgets",
-    "Design content overview panels",
-    "Create quick action widgets",
-    "Build data visualization components",
-    "Integrate external data sources"
-  ]
+  }
 }

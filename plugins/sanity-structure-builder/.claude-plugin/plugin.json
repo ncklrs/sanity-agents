@@ -4,14 +4,5 @@
   "version": "1.0.0",
   "author": {
     "name": "Nick Jensen"
-  },
-  "tags": ["sanity", "structure", "desk", "navigation", "studio-ui"],
-  "capabilities": [
-    "Design custom Studio navigation structure",
-    "Create organized document lists with filters",
-    "Build nested menu hierarchies",
-    "Configure custom list views and previews",
-    "Set up role-based navigation",
-    "Create singleton document panes"
-  ]
+  }
 }

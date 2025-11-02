@@ -4,13 +4,5 @@
   "version": "1.0.0",
   "author": {
     "name": "Nick Jensen"
-  },
-  "tags": ["sanity", "cms", "schema", "validation"],
-  "capabilities": [
-    "Create Sanity schema types with proper TypeScript types",
-    "Validate schema definitions against Sanity best practices",
-    "Generate schema documentation automatically",
-    "Suggest field types and validation rules",
-    "Create portable text configurations"
-  ]
+  }
 }

@@ -4,14 +4,5 @@
   "version": "1.0.0",
   "author": {
     "name": "Nick Jensen"
-  },
-  "tags": ["sanity", "ai", "translation", "content-generation", "automation"],
-  "capabilities": [
-    "Create AI-powered document actions",
-    "Build translation workflows with OpenAI/Claude",
-    "Generate content summaries and descriptions",
-    "Transform content formats and structures",
-    "Enhance content with AI improvements",
-    "Batch content operations with AI"
-  ]
+  }
 }
