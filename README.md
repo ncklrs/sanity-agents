@@ -23,7 +23,7 @@ A comprehensive marketplace of 7 specialized plugins for Sanity CMS developers u
 claude
 
 # Add this marketplace from GitHub
-/plugin marketplace add git@github.com:ncklrs/sanity-agents.git
+/plugin marketplace add https://github.com/ncklrs/sanity-agents.git
 
 # Browse available plugins
 /plugin
