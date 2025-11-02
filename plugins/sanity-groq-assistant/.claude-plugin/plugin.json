@@ -1,0 +1,17 @@
+{
+  "name": "sanity-groq-assistant",
+  "description": "Expert GROQ query builder and optimizer - write performant queries with projections, filters, and joins",
+  "version": "1.0.0",
+  "author": {
+    "name": "Nick Jensen"
+  },
+  "tags": ["sanity", "groq", "queries", "performance"],
+  "capabilities": [
+    "Build complex GROQ queries with proper syntax",
+    "Optimize query performance with projections and filtering",
+    "Handle references, arrays, and nested data",
+    "Generate TypeScript-typed GROQ queries",
+    "Explain query execution and performance",
+    "Debug and fix GROQ syntax errors"
+  ]
+}

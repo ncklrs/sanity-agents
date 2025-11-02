@@ -1,0 +1,17 @@
+{
+  "name": "sanity-migration-helper",
+  "description": "Safe content migration and data transformation tools - plan and execute schema changes with confidence",
+  "version": "1.0.0",
+  "author": {
+    "name": "Nick Jensen"
+  },
+  "tags": ["sanity", "migration", "data-transformation", "schema-evolution"],
+  "capabilities": [
+    "Plan safe schema migrations with rollback strategies",
+    "Generate migration scripts for content transformation",
+    "Validate data before and after migrations",
+    "Handle breaking schema changes safely",
+    "Migrate content between different schema versions",
+    "Create backup and restore procedures"
+  ]
+}

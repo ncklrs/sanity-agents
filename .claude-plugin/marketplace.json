@@ -1,0 +1,44 @@
+{
+  "name": "sanity-marketplace",
+  "owner": {
+    "name": "Nick Jensen"
+  },
+  "description": "Complete Sanity CMS development toolkit - schemas, queries, migrations, plugins, structure, widgets, and AI-powered content actions",
+  "plugins": [
+    {
+      "name": "sanity-schema-helper",
+      "source": "./plugins/sanity-schema-helper",
+      "description": "Intelligent Sanity schema creation and validation assistant"
+    },
+    {
+      "name": "sanity-groq-assistant",
+      "source": "./plugins/sanity-groq-assistant",
+      "description": "Expert GROQ query builder and optimizer for Sanity"
+    },
+    {
+      "name": "sanity-migration-helper",
+      "source": "./plugins/sanity-migration-helper",
+      "description": "Safe content migration and data transformation tools for Sanity"
+    },
+    {
+      "name": "sanity-plugin-creator",
+      "source": "./plugins/sanity-plugin-creator",
+      "description": "Expert Sanity plugin architect - create custom plugins, tools, and Studio extensions"
+    },
+    {
+      "name": "sanity-structure-builder",
+      "source": "./plugins/sanity-structure-builder",
+      "description": "Expert Studio structure architect - design custom navigation and document organization"
+    },
+    {
+      "name": "sanity-widget-creator",
+      "source": "./plugins/sanity-widget-creator",
+      "description": "Expert Studio widget architect - create dashboard widgets and custom UI components"
+    },
+    {
+      "name": "sanity-content-actions",
+      "source": "./plugins/sanity-content-actions",
+      "description": "Expert content transformation specialist - AI-powered translate, generate, and transform actions"
+    }
+  ]
+}
