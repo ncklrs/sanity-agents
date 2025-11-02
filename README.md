@@ -1,5 +1,9 @@
 # Sanity CMS Plugin Marketplace for Claude Code
 
+<p align="center">
+  <img src="claude-sanity.png" alt="Claude Code + Sanity CMS" width="600"/>
+</p>
+
 > Complete Sanity development toolkit - schemas, queries, migrations, plugins, structure, widgets, and AI-powered actions.
 
 [![Install](https://img.shields.io/badge/Install-Claude_Code-blue)](git@github.com:ncklrs/sanity-agents.git)
